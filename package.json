@@ -30,9 +30,9 @@
     "test": " gulp test"
   },
   "dependencies": {
-    "@angular/common": "4.0.0",
-    "@angular/core": "4.0.0",
-    "@angular/forms": "4.0.0"
+    "@angular/common": "6.0.0",
+    "@angular/core": "6.0.0",
+    "@angular/forms": "6.0.0"
   },
   "devDependencies": {
     "@angular/compiler": "4.0.0",
